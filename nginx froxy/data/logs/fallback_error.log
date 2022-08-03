@@ -1,0 +1,2 @@
+2022/08/03 11:40:22 [alert] 492#492: 1024 worker_connections are not enough
+2022/08/03 11:40:22 [error] 493#493: *2312 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 127.0.0.1, server: localhost-nginx-proxy-manager, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:80/favicon.ico", host: "hainamtr.online", referrer: "http://hainamtr.online/"
