@@ -3,7 +3,7 @@ How to run it :
 ##requite:
   - docker,
   - docker compose
-  -git
+   
  ### 1.step 1:
   Open cmd and run git clone https://github.com/hainamtr317/nodejs-react-mysql-docker-domain-reviewbookbasis.git
  ### 2.step 2:
